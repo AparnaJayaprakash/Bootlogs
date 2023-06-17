@@ -1,0 +1,2 @@
+2023-04-25 10:27:42.669  INFO 9836 --- [RMI TCP Connection(1336)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-25 10:27:43.119  INFO 9836 --- [RMI TCP Connection(1336)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
